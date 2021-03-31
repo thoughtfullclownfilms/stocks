@@ -1,0 +1,22 @@
+div.dataTables_wrapper div.dataTables_filter {
+    text-align: right;
+}
+
+div.dataTables_wrapper div.dataTables_filter label {
+    display: inline-flex;
+    margin-top: 1rem;
+    flex-direction: row;
+}
+
+div.dataTables_wrapper div.dataTables_filter label input {
+    margin-left: 1rem;
+}
+
+div.dataTables_wrapper div.dataTables_length label {
+    display: inline-flex;
+    margin-top: 1rem;
+}
+
+div.dataTables_wrapper div.dataTables_length label select {
+    width: auto;
+}

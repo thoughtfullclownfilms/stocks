@@ -1,0 +1,25 @@
+input {
+    border: 0;
+}
+.container{
+    width:80%;
+}
+.dropC {
+    display: flex;
+    flex-direction: column;
+    justify-content:center;
+}
+.dropR {
+    display: flex;
+    flex-direction: row;
+    justify-content:center;
+}
+.drop {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+.spacer {
+    flex: 1;
+}

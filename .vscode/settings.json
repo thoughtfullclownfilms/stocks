@@ -1,0 +1,25 @@
+{
+    "git.ignoreMissingGitWarning": true,
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.colorTheme": "Material Theme Palenight High Contrast",
+    "editor.formatOnSave": true,
+    "terminal.integrated.shell.windows": "C:\\Program Files\\Git\\bin\\bash.exe",
+    "[javascript]": {
+        "editor.defaultFormatter": "schroeter.prettier-vscode-space-parenthesis"
+    },
+    "editor.defaultFormatter": "remimarsal.prettier-now",
+    "prettier.insertPragma": true,
+    "prettier.requireConfig": true,
+    "prettier.requirePragma": true,
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "go.formatTool": "goimports",
+    "go.useLanguageServer": true,
+    "auto-close-tag.fullMode": true,
+    "auto-close-tag.SublimeText3Mode": true,
+    "bracket-pair-colorizer-2.colorMode": "Independent",
+    "bracket-pair-colorizer-2.forceIterationColorCycle": true,
+    "bracket-pair-colorizer-2.forceUniqueOpeningColor": true,
+    "bracket-pair-colorizer-2.highlightActiveScope": true,
+    "bracket-pair-colorizer-2.showBracketsInGutter": true,
+    "bracket-pair-colorizer-2.showBracketsInRuler": true
+}

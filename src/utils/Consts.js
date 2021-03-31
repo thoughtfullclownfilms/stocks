@@ -1,0 +1,1 @@
+export const DEFAULT_USER_AUTH = { token:"",userid:"",username:"",userimageurl:"",email:"",phoneno:""};
